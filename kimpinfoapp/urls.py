@@ -1,9 +1,9 @@
 from django.urls import path, include
 
-from kimpinfoapp.views import hello_world
+from kimpinfoapp.views import kimp_table
 
-app_name="kimpinfoapp"
+app_name = "kimpinfoapp"
 
 urlpatterns = [
-    path('hello_world/', hello_world)
+    path('kimp_table/', kimp_table)
 ]

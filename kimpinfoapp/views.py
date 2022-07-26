@@ -6,3 +6,8 @@ from django.shortcuts import render
 
 def hello_world(request):
     return HttpResponse('hello!!!')
+
+
+def kimp_table(request):
+    return render(request, 'base.html')
+
