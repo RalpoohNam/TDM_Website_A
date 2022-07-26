@@ -1,0 +1,847 @@
+/* screen - admin-faq-gwanri-rabel-sagje-modal */
+
+.admin-faq-gwanri-rabel-sagje-modal {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 2392px;
+  width: 1920px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .header {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  padding: 0px 200px;
+  width: 1920px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .comp-sidebar-dashboard {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-8 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 55px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-9 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 81px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-10 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 84px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-11 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 49px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-12 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 21px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-13 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .frame-4555 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: min-content;
+  margin-top: 120px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .h2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: 1268px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .title {
+  letter-spacing: -1.80px;
+  margin-top: -1px;
+  min-width: 98px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .group {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .comp-dropdown-c1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: min-content;
+  justify-content: center;
+  width: 200px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .comp-dropdown-default {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 59px;
+  justify-content: center;
+  padding: 22px 20px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .contents {
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  height: 15px;
+  min-width: 160px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .overlap-group {
+  height: 15px;
+  left: 40px;
+  position: relative;
+  top: -1px;
+  width: 151px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text-2 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .lc-dropdown {
+  height: 10px;
+  left: 70px;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 295px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text-3 {
+  letter-spacing: 0;
+  min-width: 68px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .frame-4555-1 {
+  border-radius: 4px;
+  height: 613px;
+  min-width: 1270px;
+  overflow: hidden;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .overlap-group1 {
+  height: 614px;
+  left: -1px;
+  position: relative;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .list-header {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  gap: 46px;
+  height: 60px;
+  left: 2px;
+  padding: 0px 80px;
+  position: absolute;
+  top: 0;
+  width: 1268px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-14 {
+  letter-spacing: -0.22px;
+  min-width: 77px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-15 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-16 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 79px;
+  justify-content: space-between;
+  padding: 0px 80px;
+  width: 1270px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-2 {
+  letter-spacing: -0.12px;
+  min-width: 48px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-3 {
+  height: 46px;
+  min-width: 1px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-4 {
+  letter-spacing: -0.20px;
+  min-width: 136px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-list {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-5 {
+  letter-spacing: -0.12px;
+  margin-top: -1px;
+  text-align: center;
+  width: 60px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-1 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-2 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-17 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 81px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 80px;
+  position: absolute;
+  top: 138px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-3 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-4 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-5 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-18 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 81px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 80px;
+  position: absolute;
+  top: 217px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-6 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-7 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-8 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-19 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 81px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 80px;
+  position: absolute;
+  top: 296px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-9 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-10 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-11 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-20 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 81px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 80px;
+  position: absolute;
+  top: 375px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-12 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-13 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-14 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-21 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 81px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 80px;
+  position: absolute;
+  top: 454px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-15 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-16 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-17 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-22 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 81px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 80px;
+  position: absolute;
+  top: 533px;
+  width: 1272px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-18 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-19 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-20 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .pager {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .number {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 8px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .number-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 7px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .lc-dropdown-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .group-1 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  height: 640px;
+  justify-content: center;
+  margin-top: 57px;
+  width: 1270px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text-4 {
+  height: 24px;
+  min-width: 1000px;
+  position: relative;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text-product-title {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: -1px;
+  width: 938px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .group-2 {
+  height: 336px;
+  min-width: 1005px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 336px;
+  width: 1005px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-23 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  height: 67px;
+  justify-content: space-between;
+  padding: 0px 80px;
+  width: 1005px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .group-4553 {
+  height: 18px;
+  min-width: 286px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-6 {
+  align-items: center;
+  display: flex;
+  gap: 46px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-24 {
+  letter-spacing: -0.14px;
+  margin-top: -1px;
+  min-width: 39px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-21 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-7 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  height: 67px;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 0px 80px;
+  width: 1005px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-25 {
+  letter-spacing: -0.14px;
+  margin-top: -1px;
+  min-width: 64px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-22 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-26 {
+  letter-spacing: -0.14px;
+  margin-top: -1px;
+  min-width: 19px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-23 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-27 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  height: 67px;
+  justify-content: space-between;
+  margin-top: 26px;
+  padding: 0px 80px;
+  width: 1005px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .node-28 {
+  letter-spacing: -0.14px;
+  margin-top: -1px;
+  min-width: 26px;
+  text-align: center;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .btn-24 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: min-content;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .comp-btn-defualt-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 486px;
+}
+
+.admin-faq-gwanri-rabel-sagje-modal .text-5 {
+  letter-spacing: -0.12px;
+  min-width: 71px;
+  text-align: center;
+}

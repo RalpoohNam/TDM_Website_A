@@ -1,0 +1,628 @@
+/* screen - about-us */
+
+.about-us {
+  align-items: flex-start;
+  background-color: #fcfcff;
+  display: flex;
+  flex-direction: column;
+  height: 5497px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.about-us .header {
+  align-items: center;
+  display: flex;
+  gap: 300px;
+  height: 80px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.about-us .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.about-us .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.about-us .text-1 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.about-us .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  width: min-content;
+}
+
+.about-us .text {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.about-us .benefits {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.about-us .haruki-primary-arrow-down-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.about-us .benefits-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.about-us .haruki-primary-arrow-down-2-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.about-us .text-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.about-us .benefits-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.about-us .haruki-primary-arrow-down-2-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.about-us .text-3 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.about-us .group-1 {
+  height: 20px;
+  min-width: 66px;
+}
+
+.about-us .group-2 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 30px;
+  width: min-content;
+}
+
+.about-us .price {
+  letter-spacing: 3.00px;
+  margin-top: -1px;
+  min-width: 28px;
+}
+
+.about-us .vector {
+  height: 11px;
+  min-width: 15px;
+}
+
+.about-us .nav-type-1 {
+  align-items: center;
+  background-color: var(--chicago);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0px 220px;
+  width: 1920px;
+}
+
+.about-us .node {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: min-content;
+}
+
+.about-us .group {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.about-us .text-4 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.about-us .text-5 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.about-us .text-6 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.about-us .text-7 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.about-us .group-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.about-us .charmpeople {
+  height: 16px;
+  min-width: 16px;
+}
+
+.about-us .text-8 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.about-us .x02_-hero {
+  align-items: center;
+  background-color: #6f6f6f;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 636px;
+  justify-content: center;
+  margin-top: 10px;
+  width: 1904px;
+}
+
+.about-us .frame-4235 {
+  align-items: center;
+  display: flex;
+  height: 480px;
+  justify-content: center;
+  width: 1066px;
+}
+
+.about-us .frame-4235-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.about-us .we-are-creative-digi {
+  color: var(--flowkitwhite);
+  font-family: var(--font-family-rubik-regular);
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 80px;
+  margin-top: -1px;
+  min-width: 471px;
+  white-space: nowrap;
+}
+
+.about-us .at-double-squere-we {
+  color: var(--flowkitwhite);
+  font-family: var(--font-family-cabin-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 90.94px;
+  letter-spacing: 0;
+  line-height: 26px;
+  width: 585.97px;
+}
+
+.about-us .hero-image {
+  height: 418px;
+  min-width: 455.53px;
+}
+
+.about-us .pattern-container {
+  height: 418px;
+  position: relative;
+  width: 456px;
+}
+
+.about-us .blue-pattern {
+  height: 418px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.about-us .dot-pattern {
+  background-image: url(../img/combined-shape-1@2x.svg);
+  background-size: 100% 100%;
+  height: 125px;
+  left: 322px;
+  position: absolute;
+  top: 64px;
+  width: 133px;
+}
+
+.about-us .frame-4238 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  margin-left: -10px;
+  margin-top: 125px;
+  width: min-content;
+}
+
+.about-us .frame-42 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 127px;
+  height: min-content;
+  justify-content: center;
+  padding: 100px 0px;
+  width: 1914px;
+}
+
+.about-us .frame-423 {
+  align-items: center;
+  display: flex;
+  gap: 53px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.about-us .group-4237 {
+  height: 334px;
+  min-width: 553px;
+}
+
+.about-us .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 334px;
+  width: 549px;
+}
+
+.about-us .about {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  overflow: hidden;
+  width: 113px;
+}
+
+.about-us .line {
+  align-self: center;
+  height: 1px;
+  margin-top: 1.0px;
+  width: 30px;
+}
+
+.about-us .about-us-1 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 10px;
+  margin-top: -1px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.about-us .we-are-a-cutting-edg {
+  letter-spacing: 0.18px;
+  line-height: 52px;
+  margin-left: 30px;
+  margin-top: 15px;
+  min-height: 104px;
+  width: 359px;
+}
+
+.about-us .double-square-is-a-t {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 85px;
+  min-height: 104px;
+  width: 549px;
+}
+
+.about-us .portfolio2-hovered {
+  background-image: url(../img/portfolio2@2x.svg);
+  background-size: 100% 100%;
+  height: 490px;
+  min-width: 440px;
+}
+
+.about-us .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/gradient-overlay@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 490px;
+  padding: 30px 16px;
+  width: 440px;
+}
+
+.about-us .hue-capsule-medicine {
+  align-self: flex-end;
+  letter-spacing: 0.18px;
+  line-height: 52px;
+  margin-top: 297px;
+  min-height: 104px;
+  width: 399px;
+}
+
+.about-us .learn-more-hovered-white {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 9px;
+  margin-top: 10px;
+  min-width: 149px;
+}
+
+.about-us .learn-more-hovered-white-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  overflow: hidden;
+  width: 149px;
+}
+
+.about-us .learn-more {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-height: 19px;
+  min-width: 87px;
+}
+
+.about-us .arrow-right {
+  align-self: center;
+  height: 16px;
+  margin-left: 10px;
+  margin-top: 1.0px;
+  width: 52px;
+}
+
+.about-us .portfolio2-hovered-1 {
+  background-image: url(../img/portfolio2-1@2x.svg);
+  background-size: 100% 100%;
+  height: 490px;
+  min-width: 440px;
+}
+
+.about-us .group-4237-1 {
+  height: 334px;
+  margin-right: -4px;
+  min-width: 553px;
+}
+
+.about-us .portfolio2-hovered-2 {
+  background-image: url(../img/portfolio2-2@2x.svg);
+  background-size: 100% 100%;
+  height: 490px;
+  min-width: 440px;
+}
+
+.about-us .portfolio2-hovered-3 {
+  background-image: url(../img/portfolio2-3@2x.svg);
+  background-size: 100% 100%;
+  height: 490px;
+  min-width: 440px;
+}
+
+.about-us .portfolio2-hovered-4 {
+  background-image: url(../img/portfolio2-4@2x.svg);
+  background-size: 100% 100%;
+  height: 490px;
+  min-width: 440px;
+}
+
+.about-us .portfolio2-hovered-5 {
+  background-image: url(../img/portfolio2-5@2x.svg);
+  background-size: 100% 100%;
+  height: 490px;
+  min-width: 440px;
+}
+
+.about-us .x11_-footer {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-right: 2.0px;
+  margin-top: 188px;
+  overflow: hidden;
+  width: 1904px;
+}
+
+.about-us .overlap-group-1 {
+  height: 467px;
+  margin-bottom: -10px;
+  position: relative;
+  width: 1918px;
+}
+
+.about-us .footer-bg {
+  height: 467px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1904px;
+}
+
+.about-us .group-4238 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 164px;
+  padding: 0 0.2px;
+  position: absolute;
+  top: 142px;
+  width: 1918px;
+}
+
+.about-us .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 29.6px;
+  min-width: 1321px;
+}
+
+.about-us .logo {
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+  width: 247px;
+}
+
+.about-us .combined-shape {
+  align-self: flex-end;
+  height: 37px;
+  margin-bottom: 0;
+  margin-left: -1px;
+  width: 64px;
+}
+
+.about-us .your-logo-here {
+  color: var(--flowkitwhite);
+  font-family: var(--font-family-rubik-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-bottom: 4.0px;
+  margin-left: 12px;
+  min-height: 21px;
+  width: 169px;
+}
+
+.about-us .place {
+  letter-spacing: 0;
+  margin-left: 476px;
+  min-height: 19px;
+  text-align: right;
+  width: 61px;
+}
+
+.about-us .collaboration {
+  letter-spacing: 0;
+  margin-left: 38px;
+  min-height: 19px;
+  text-align: right;
+  width: 139px;
+}
+
+.about-us .carrers {
+  letter-spacing: 0;
+  margin-left: 38px;
+  min-height: 19px;
+  text-align: right;
+  width: 74px;
+}
+
+.about-us .blogs {
+  letter-spacing: 0;
+  margin-left: 38px;
+  min-height: 19px;
+  text-align: right;
+  width: 58px;
+}
+
+.about-us .contact-us {
+  letter-spacing: 0;
+  margin-left: 40px;
+  min-height: 19px;
+  text-align: right;
+  width: 112px;
+}
+
+.about-us .line-2 {
+  align-self: flex-start;
+  height: 1px;
+  margin-top: 70px;
+  width: 1904px;
+}
+
+.about-us .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 26px;
+  margin-left: 28.28px;
+  margin-top: 30px;
+  min-width: 1320px;
+}
+
+.about-us .copyright-double-sq {
+  color: var(--flowkitwhite);
+  font-family: var(--font-family-raleway-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 509px;
+}
+
+.about-us .privacy-policy {
+  letter-spacing: 0;
+  margin-left: 671px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  text-align: right;
+  width: 140px;
+}

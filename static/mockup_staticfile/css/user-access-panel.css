@@ -1,0 +1,338 @@
+/* screen - user-access-panel */
+
+.user-access-panel {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.user-access-panel .header {
+  align-items: center;
+  display: flex;
+  gap: 300px;
+  height: 80px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.user-access-panel .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.user-access-panel .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.user-access-panel .text-2 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.user-access-panel .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  width: min-content;
+}
+
+.user-access-panel .text {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.user-access-panel .benefits {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.user-access-panel .haruki-primary-arrow-down-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.user-access-panel .benefits-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.user-access-panel .haruki-primary-arrow-down-2-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.user-access-panel .text-3 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.user-access-panel .benefits-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.user-access-panel .haruki-primary-arrow-down-2-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.user-access-panel .text-4 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.user-access-panel .group-1 {
+  height: 20px;
+  min-width: 66px;
+}
+
+.user-access-panel .group-2 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 30px;
+  width: min-content;
+}
+
+.user-access-panel .price {
+  letter-spacing: 3.00px;
+  margin-top: -1px;
+  min-width: 28px;
+}
+
+.user-access-panel .vector {
+  height: 11px;
+  min-width: 15px;
+}
+
+.user-access-panel .nav-type-1 {
+  align-items: center;
+  background-color: var(--chicago);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0px 220px;
+  width: 1920px;
+}
+
+.user-access-panel .node {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: min-content;
+}
+
+.user-access-panel .group {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.user-access-panel .text-5 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.user-access-panel .text-6 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.user-access-panel .text-7 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.user-access-panel .text-8 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.user-access-panel .group-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.user-access-panel .charmpeople {
+  height: 16px;
+  min-width: 16px;
+}
+
+.user-access-panel .text-9 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.user-access-panel .prime_text_1 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-abel);
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: -3.00px;
+  margin-top: 169px;
+  min-height: 38px;
+  text-align: center;
+  width: 620px;
+}
+
+.user-access-panel .login {
+  align-items: center;
+  display: flex;
+  margin-right: 511.06px;
+  margin-top: 99px;
+  min-width: 109px;
+  padding: 0 0.0px;
+}
+
+.user-access-panel .lslogin {
+  height: 18px;
+  width: 27px;
+}
+
+.user-access-panel .text-10 {
+  color: var(--mine-shaft-4);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  height: 24px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  width: 66px;
+}
+
+.user-access-panel .input {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 2px;
+  display: flex;
+  height: 40px;
+  margin-top: 20px;
+  min-width: 620px;
+  padding: 11px 51.2px;
+}
+
+.user-access-panel .text-1 {
+  height: 15px;
+  letter-spacing: -1.00px;
+  opacity: 0.5;
+  width: 85px;
+}
+
+.user-access-panel .input-1 {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 2px;
+  display: flex;
+  height: 40px;
+  margin-top: 10px;
+  min-width: 620px;
+  padding: 11px 51.2px;
+}
+
+.user-access-panel .underline-function {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  margin-left: 1.35px;
+  margin-top: 10px;
+  min-width: 619px;
+}
+
+.user-access-panel .text-11 {
+  height: 15px;
+  letter-spacing: -1.00px;
+  margin-top: -1px;
+  text-align: right;
+  text-decoration: underline;
+  width: 619px;
+}
+
+.user-access-panel .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  margin-top: 45px;
+  width: 620px;
+}
+
+.user-access-panel .node-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.user-access-panel .text-12 {
+  letter-spacing: -0.12px;
+  min-width: 33px;
+  text-align: center;
+}
+
+.user-access-panel .text-13 {
+  height: 18px;
+  letter-spacing: -1.00px;
+  margin-left: 1.35px;
+  margin-top: 43px;
+  opacity: 0.5;
+  text-align: center;
+  text-decoration: underline;
+  width: 619px;
+}

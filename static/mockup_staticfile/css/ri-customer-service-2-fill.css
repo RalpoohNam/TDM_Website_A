@@ -1,0 +1,15 @@
+/* screen - ri-customer-service-2-fill */
+
+.ri-customer-service-2-fill {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  padding: 1.0px 1px;
+  width: 24px;
+}
+
+.ri-customer-service-2-fill .vector {
+  height: 22px;
+  margin-top: 0;
+  width: 22px;
+}

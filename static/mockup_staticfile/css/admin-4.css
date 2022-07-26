@@ -1,0 +1,702 @@
+/* screen - admin-4 */
+
+.admin-4 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 2438px;
+  width: 1920px;
+}
+
+.admin-4 .header {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  padding: 0px 200px;
+  width: 1920px;
+}
+
+.admin-4 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-4 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.admin-4 .text-5 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.admin-4 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-4 .text-6 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.admin-4 .comp-sidebar-dashboard {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.admin-4 .node {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-4 .node-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 55px;
+}
+
+.admin-4 .node-3 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 81px;
+}
+
+.admin-4 .node-4 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 84px;
+}
+
+.admin-4 .node-5 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 49px;
+}
+
+.admin-4 .node-6 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 21px;
+}
+
+.admin-4 .node-7 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-4 .frame-4555-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  margin-top: 130px;
+  width: min-content;
+}
+
+.admin-4 .frame-4555 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-4 .h2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: 1268px;
+}
+
+.admin-4 .title-1 {
+  letter-spacing: -1.80px;
+  margin-top: -1px;
+  min-width: 167px;
+}
+
+.admin-4 .group {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  justify-content: center;
+  padding: 80px 140px;
+  width: 1270px;
+}
+
+.admin-4 .comp-input-defualt-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 80px;
+  justify-content: center;
+}
+
+.admin-4 .title {
+  letter-spacing: -0.12px;
+  margin-top: -1px;
+  width: 488px;
+}
+
+.admin-4 .input {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 20px 30px;
+}
+
+.admin-4 .text-7 {
+  letter-spacing: 0;
+  margin-bottom: -1.5px;
+  margin-top: -3.5px;
+  min-width: 34px;
+}
+
+.admin-4 .comp-input-defualt {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: min-content;
+  justify-content: center;
+}
+
+.admin-4 .input-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--gallery);
+  border-radius: 4px;
+  display: flex;
+  height: 54px;
+  justify-content: space-between;
+  padding: 20px 540px 20px 0px;
+}
+
+.admin-4 .text-8 {
+  letter-spacing: 0;
+  margin-top: -1.5px;
+  width: 23px;
+}
+
+.admin-4 .input-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  height: 54px;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+
+.admin-4 .text-9 {
+  letter-spacing: 0;
+  margin-top: -1.5px;
+  min-width: 75px;
+}
+
+.admin-4 .frame-4555-2 {
+  height: 14px;
+  min-width: 23px;
+}
+
+.admin-4 .input-find-adress {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 32px;
+}
+
+.admin-4 .input-adress {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+}
+
+.admin-4 .title-2 {
+  letter-spacing: -0.12px;
+  margin-top: -1px;
+  width: 460.31px;
+}
+
+.admin-4 .input-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 54px;
+  padding: 20px 30px;
+}
+
+.admin-4 .text-10 {
+  letter-spacing: 0;
+  margin-top: -1.5px;
+  min-width: 45px;
+}
+
+.admin-4 .input-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  padding: 20px 30px;
+}
+
+.admin-4 .text-11 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 23px;
+}
+
+.admin-4 .h2-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: 1268px;
+}
+
+.admin-4 .title-3 {
+  letter-spacing: -1.80px;
+  margin-top: -1px;
+  min-width: 96px;
+}
+
+.admin-4 .comp-soartingbar-c3 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  height: 130px;
+  justify-content: space-between;
+  padding: 0px 50px 0px 40px;
+  width: 1269px;
+}
+
+.admin-4 .dropdown-list {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  height: 60px;
+  justify-content: center;
+  width: 591px;
+}
+
+.admin-4 .dropdown {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 20px;
+}
+
+.admin-4 .title-4 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-4 .comp-dropdown-default {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 20px;
+}
+
+.admin-4 .contents-1 {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  margin-bottom: -1px;
+  margin-top: -1px;
+  width: 183px;
+}
+
+.admin-4 .text-12 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  width: 151px;
+}
+
+.admin-4 .lc-dropdown {
+  height: 10px;
+  min-width: 10px;
+}
+
+.admin-4 .comp-sellect-date-default-c2 {
+  height: 62px;
+  min-width: 364px;
+  position: relative;
+}
+
+.admin-4 .comp-sellect-date-default {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.admin-4 .contents {
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  flex: 1;
+  height: 62px;
+  min-width: 176.03px;
+}
+
+.admin-4 .overlap-group {
+  height: 24px;
+  left: 40px;
+  position: relative;
+  top: 19px;
+  width: 140px;
+}
+
+.admin-4 .text {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 140px;
+}
+
+.admin-4 .icon-calendar {
+  height: 24px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.admin-4 .comp-sellect-date-default-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  left: 188px;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.admin-4 .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 145px;
+}
+
+.admin-4 .node-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-4 .text-13 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}
+
+.admin-4 .group-1 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  justify-content: center;
+  overflow: hidden;
+  width: 1270px;
+}
+
+.admin-4 .regular-1 {
+  align-items: center;
+  background-color: #423f4a;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0px 80px;
+  width: 1270px;
+}
+
+.admin-4 .text-14 {
+  height: 15px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 200px;
+}
+
+.admin-4 .text-1 {
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 100px;
+}
+
+.admin-4 .regular {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0px 80px;
+}
+
+.admin-4 .text-2 {
+  height: 14px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 200px;
+}
+
+.admin-4 .text-3 {
+  height: 14px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 100px;
+}
+
+.admin-4 .text-4 {
+  height: 15px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 100px;
+}
+
+.admin-4 .btn {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .node-1 {
+  letter-spacing: -0.12px;
+  margin-left: -5px;
+  margin-right: -5px;
+  margin-top: -1px;
+  text-align: center;
+  width: 60px;
+}
+
+.admin-4 .btn-1 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-2 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-3 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-4 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-5 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-6 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-7 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-8 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-9 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-10 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .btn-11 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.admin-4 .pager {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-4 .number {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 8px;
+  text-align: center;
+}
+
+.admin-4 .number-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 7px;
+  text-align: center;
+}
+
+.admin-4 .lc-dropdown-1 {
+  height: 16px;
+  min-width: 16px;
+}

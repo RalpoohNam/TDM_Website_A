@@ -1,0 +1,598 @@
+/* screen - admin-11 */
+
+.admin-11 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 3064px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.admin-11 .overlap-group1 {
+  height: 81px;
+  margin-top: -1px;
+  position: relative;
+  width: 1920px;
+}
+
+.admin-11 .as {
+  left: 946px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.admin-11 .header {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 200px;
+  position: absolute;
+  top: 1px;
+  width: 1920px;
+}
+
+.admin-11 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-11 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.admin-11 .text-1 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.admin-11 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-11 .text-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.admin-11 .comp-sidebar-dashboard {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.admin-11 .node {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-11 .node-7 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 55px;
+}
+
+.admin-11 .node-8 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 81px;
+}
+
+.admin-11 .node-9 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 84px;
+}
+
+.admin-11 .node-10 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 49px;
+}
+
+.admin-11 .node-11 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 21px;
+}
+
+.admin-11 .node-12 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-11 .text-2-1 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  height: 40px;
+  margin-left: 324px;
+  margin-top: 139px;
+  min-width: 448px;
+}
+
+.admin-11 .text-2-2 {
+  letter-spacing: 0;
+  margin-bottom: -19px;
+  min-height: 60px;
+  width: 448px;
+}
+
+.admin-11 .group-2 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  justify-content: center;
+  margin-top: 55px;
+  padding: 60px;
+  width: 1270px;
+}
+
+.admin-11 .group-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.admin-11 .title-1 {
+  height: 24px;
+  min-width: 1110px;
+}
+
+.admin-11 .text-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 1110px;
+}
+
+.admin-11 .text-product-title {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-height: 24px;
+  width: 1041px;
+}
+
+.admin-11 .group-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.admin-11 .input {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  height: min-content;
+  padding: 15px 40px;
+}
+
+.admin-11 .text-144 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  width: 135px;
+}
+
+.admin-11 .dropdown-1 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 15px 30px;
+  width: 190px;
+}
+
+.admin-11 .contents-1 {
+  align-self: stretch;
+  height: 17px;
+  min-width: 130px;
+}
+
+.admin-11 .overlap-group {
+  height: 17px;
+  position: relative;
+  top: -1px;
+  width: 137px;
+}
+
+.admin-11 .x {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.admin-11 .lc-dropdown-1 {
+  height: 10px;
+  left: 120px;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.admin-11 .dropdown {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 15px 20px;
+  width: 200px;
+}
+
+.admin-11 .contents {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  margin-left: -8.67px;
+  margin-right: -8.67px;
+  width: 177.33px;
+}
+
+.admin-11 .x-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 39px;
+}
+
+.admin-11 .lc-dropdown {
+  height: 10px;
+  min-width: 10px;
+}
+
+.admin-11 .x-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 39px;
+}
+
+.admin-11 .comp-btn-defualt {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+}
+
+.admin-11 .node-13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--scorpion);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-11 .text-4 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}
+
+.admin-11 .group-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  margin-left: 3.0px;
+  margin-top: 60px;
+  width: 1267px;
+}
+
+.admin-11 .comp-post {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  padding: 80px 140px;
+}
+
+.admin-11 .node-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.admin-11 .value {
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.admin-11 .group {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-11 .value-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 54px;
+  text-align: right;
+}
+
+.admin-11 .value-2 {
+  letter-spacing: 0;
+  min-width: 41px;
+  text-align: right;
+}
+
+.admin-11 .post {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.admin-11 .node-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+}
+
+.admin-11 .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  margin-top: -1px;
+}
+
+.admin-11 .image {
+  align-self: stretch;
+  height: 296px;
+  min-width: 987px;
+  object-fit: cover;
+}
+
+.admin-11 .node-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.admin-11 .node-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  width: min-content;
+}
+
+.admin-11 .misc-action-label-left {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-11 .icon-thumbs_up {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .subtitle-small {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.admin-11 .message-circle-xs-quiet {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .node-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-11 .share-xs-quiet {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .subtitle-small-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+
+.admin-11 .btn-list {
+  align-items: flex-end;
+  align-self: stretch;
+  border-radius: 0px 0px 4px 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: flex-end;
+}
+
+.admin-11 .button-ic {
+  background-color: var(--flowkitcharcoal);
+  border-radius: 4px;
+  height: 30px;
+  min-width: 100px;
+}
+
+.admin-11 .node-6 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  position: relative;
+  top: 3px;
+  width: 100px;
+}
+
+.admin-11 .x-close {
+  height: 24px;
+  min-width: 24px;
+}
+
+.admin-11 .text {
+  letter-spacing: 0;
+  min-width: 58px;
+  text-align: center;
+}
+
+.admin-11 .group-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  width: 1267px;
+}
+
+.admin-11 .post-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.admin-11 .icon-thumbs_up-1 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .message-circle-xs-quiet-1 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .share-xs-quiet-1 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .post-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.admin-11 .icon-thumbs_up-2 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .message-circle-xs-quiet-2 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .share-xs-quiet-2 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .post-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.admin-11 .thumbs-up-xs-quiet {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .message-circle-xs-quiet-3 {
+  height: 20px;
+  min-width: 20px;
+}
+
+.admin-11 .share-xs-quiet-3 {
+  height: 20px;
+  min-width: 20px;
+}

@@ -1,0 +1,474 @@
+/* screen - admin-2 */
+
+.admin-2 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 3064px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.admin-2 .group-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-2 .header {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  padding: 0px 200px;
+  width: 1920px;
+}
+
+.admin-2 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-2 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.admin-2 .text-3 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.admin-2 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-2 .text-4 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.admin-2 .comp-sidebar-dashboard {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.admin-2 .node {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-2 .node-3 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 55px;
+}
+
+.admin-2 .node-4 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 81px;
+}
+
+.admin-2 .node-5 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 84px;
+}
+
+.admin-2 .node-6 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 49px;
+}
+
+.admin-2 .node-7 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 21px;
+}
+
+.admin-2 .node-8 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-2 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  margin-top: 62px;
+  width: 1271px;
+}
+
+.admin-2 .text-2-1 {
+  height: 40px;
+  min-width: 448px;
+  position: relative;
+}
+
+.admin-2 .text-2-2 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: -1px;
+  width: 448px;
+}
+
+.admin-2 .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 290px;
+}
+
+.admin-2 .node-9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--abbey-2);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-2 .text-5 {
+  letter-spacing: -0.12px;
+  min-width: 71px;
+  text-align: center;
+}
+
+.admin-2 .group-3 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  justify-content: center;
+  margin-top: 62px;
+  padding: 60px;
+  width: 1270px;
+}
+
+.admin-2 .group-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.admin-2 .title {
+  height: 24px;
+  min-width: 1110px;
+}
+
+.admin-2 .text-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 1110px;
+}
+
+.admin-2 .text-product-title {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-height: 24px;
+  width: 1041px;
+}
+
+.admin-2 .group-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+.admin-2 .input {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  height: min-content;
+  padding: 15px 40px;
+}
+
+.admin-2 .text-50 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  width: 135px;
+}
+
+.admin-2 .dropdown-1 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 15px 30px;
+  width: 190px;
+}
+
+.admin-2 .contents-1 {
+  align-self: stretch;
+  height: 17px;
+  min-width: 130px;
+}
+
+.admin-2 .overlap-group {
+  height: 17px;
+  position: relative;
+  top: -1px;
+  width: 137px;
+}
+
+.admin-2 .x {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.admin-2 .lc-dropdown-1 {
+  height: 10px;
+  left: 120px;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.admin-2 .dropdown {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 15px 20px;
+  width: 200px;
+}
+
+.admin-2 .contents {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  margin-left: -8.67px;
+  margin-right: -8.67px;
+  width: 177.33px;
+}
+
+.admin-2 .x-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 39px;
+}
+
+.admin-2 .lc-dropdown {
+  height: 10px;
+  min-width: 10px;
+}
+
+.admin-2 .x-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 39px;
+}
+
+.admin-2 .comp-btn-defualt-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+}
+
+.admin-2 .node-10 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--scorpion);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-2 .text-7 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}
+
+.admin-2 .group-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  margin-top: 62px;
+  width: 1267px;
+}
+
+.admin-2 .comp-post {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  padding: 80px 140px;
+}
+
+.admin-2 .node-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.admin-2 .value {
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.admin-2 .group {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-2 .value-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 54px;
+  text-align: right;
+}
+
+.admin-2 .value-2 {
+  letter-spacing: 0;
+  min-width: 41px;
+  text-align: right;
+}
+
+.admin-2 .comp {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  height: min-content;
+}
+
+.admin-2 .thumb {
+  align-self: stretch;
+  background-color: var(--shark);
+  border-radius: 8px;
+  height: 346px;
+  min-width: 987px;
+}
+
+.admin-2 .text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.admin-2 .text-1 {
+  align-self: stretch;
+  height: 88px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.admin-2 .btn-list {
+  align-items: flex-end;
+  align-self: stretch;
+  border-radius: 0px 0px 4px 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: flex-end;
+}
+
+.admin-2 .button-ic {
+  background-color: var(--flowkitcharcoal);
+  border-radius: 4px;
+  height: 30px;
+  min-width: 100px;
+}
+
+.admin-2 .node-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  position: relative;
+  top: 8px;
+  width: 100px;
+}
+
+.admin-2 .text-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 47px;
+  text-align: center;
+}

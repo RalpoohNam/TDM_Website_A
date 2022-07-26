@@ -1,0 +1,258 @@
+/* screen - admin-7 */
+
+.admin-7 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 1392px;
+  width: 1920px;
+}
+
+.admin-7 .group {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-7 .header {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  padding: 0px 200px;
+  width: 1920px;
+}
+
+.admin-7 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-7 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.admin-7 .text {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.admin-7 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-7 .text-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.admin-7 .comp-sidebar-dashboard {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.admin-7 .node {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-7 .node-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 55px;
+}
+
+.admin-7 .node-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 81px;
+}
+
+.admin-7 .node-3 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 84px;
+}
+
+.admin-7 .node-4 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 49px;
+}
+
+.admin-7 .node-5 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 21px;
+}
+
+.admin-7 .node-6 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-7 .group-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: min-content;
+  margin-top: 100px;
+  width: min-content;
+}
+
+.admin-7 .group-2 {
+  height: 71px;
+  min-width: 1270px;
+}
+
+.admin-7 .overlap-group {
+  height: 38px;
+  left: 70px;
+  position: relative;
+  top: 16px;
+  width: 1268px;
+}
+
+.admin-7 .h2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1268px;
+}
+
+.admin-7 .title {
+  letter-spacing: -1.80px;
+  margin-top: -1px;
+  min-width: 162px;
+}
+
+.admin-7 .btn {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  left: 1020px;
+  padding: 10px 25px;
+  position: absolute;
+  top: 2px;
+  width: min-content;
+}
+
+.admin-7 .node-7 {
+  letter-spacing: -0.12px;
+  margin-top: -1px;
+  text-align: center;
+  width: 60px;
+}
+
+.admin-7 .frame-4555 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-7 .regular {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0px 40px;
+  width: 1129px;
+}
+
+.admin-7 .text-2 {
+  letter-spacing: -0.20px;
+  min-width: 243px;
+  text-align: center;
+}
+
+.admin-7 .text-3 {
+  letter-spacing: 0;
+  min-width: 54px;
+  text-align: center;
+}
+
+.admin-7 .regular-1 {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  gap: 40px;
+  height: 539px;
+  padding: 40px;
+  width: 1129px;
+}
+
+.admin-7 .regular-light {
+  align-self: stretch;
+  flex: 1;
+  letter-spacing: 0;
+  margin-top: -1px;
+  text-align: justify;
+}
+
+.admin-7 .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 475px;
+}
+
+.admin-7 .node-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-7 .text-4 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}

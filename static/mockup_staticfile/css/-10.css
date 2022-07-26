@@ -1,0 +1,381 @@
+/* screen - -10 */
+
+.x-10 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 1948px;
+  width: 1920px;
+}
+
+.x-10 .header {
+  align-items: center;
+  display: flex;
+  gap: 300px;
+  height: 80px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.x-10 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.x-10 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.x-10 .text-2 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.x-10 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  width: min-content;
+}
+
+.x-10 .text {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.x-10 .benefits {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.x-10 .haruki-primary-arrow-down-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.x-10 .benefits-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.x-10 .haruki-primary-arrow-down-2-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.x-10 .text-3 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.x-10 .benefits-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.x-10 .haruki-primary-arrow-down-2-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.x-10 .text-4 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.x-10 .group-1 {
+  height: 20px;
+  min-width: 66px;
+}
+
+.x-10 .group-2 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 30px;
+  width: min-content;
+}
+
+.x-10 .price {
+  letter-spacing: 3.00px;
+  margin-top: -1px;
+  min-width: 28px;
+}
+
+.x-10 .vector {
+  height: 11px;
+  min-width: 15px;
+}
+
+.x-10 .nav-type-1 {
+  align-items: center;
+  background-color: var(--chicago);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0px 220px;
+  width: 1920px;
+}
+
+.x-10 .node {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: min-content;
+}
+
+.x-10 .group {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.x-10 .text-5 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.x-10 .text-6 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.x-10 .text-7 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.x-10 .text-8 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.x-10 .group-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.x-10 .charmpeople {
+  height: 16px;
+  min-width: 16px;
+}
+
+.x-10 .text-9 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.x-10 .comp-bar-rigal {
+  align-items: center;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 110px;
+  width: 1272px;
+}
+
+.x-10 .text-1 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  gap: 10px;
+  height: 63px;
+  justify-content: center;
+  width: 318px;
+}
+
+.x-10 .text-10 {
+  letter-spacing: 0;
+  min-width: 104px;
+  text-align: center;
+}
+
+.x-10 .text-11 {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 10px;
+  height: 63px;
+  justify-content: center;
+  width: 318px;
+}
+
+.x-10 .text-12 {
+  letter-spacing: 0;
+  min-width: 145px;
+  text-align: center;
+}
+
+.x-10 .text-13 {
+  letter-spacing: 0;
+  min-width: 91px;
+  text-align: center;
+}
+
+.x-10 .text-14 {
+  letter-spacing: 0;
+  min-width: 52px;
+  text-align: center;
+}
+
+.x-10 .group-4 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  height: 914px;
+  justify-content: center;
+  margin-right: 1.0px;
+  margin-top: 44px;
+  width: 1271px;
+}
+
+.x-10 .h1 {
+  height: 36px;
+  min-width: 945px;
+  position: relative;
+}
+
+.x-10 .title {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 945px;
+}
+
+.x-10 .comp-text-read {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 611px;
+  justify-content: center;
+  width: 945px;
+}
+
+.x-10 .node-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 20px 60px;
+}
+
+.x-10 .regular {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-top: -1px;
+  width: 865px;
+}
+
+.x-10 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  margin-top: 42px;
+  min-width: 284px;
+}
+
+.x-10 .ic-checkbox {
+  align-self: flex-end;
+  background-color: var(--flowkitwhite);
+  height: 24px;
+  width: 24px;
+}
+
+.x-10 .title-1 {
+  letter-spacing: -0.96px;
+  line-height: 24px;
+  margin-left: 21px;
+  min-height: 24px;
+  min-width: 239px;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.x-10 .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  margin-right: 33.0px;
+  margin-top: 73px;
+  width: 839px;
+}
+
+.x-10 .node-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.x-10 .text-15 {
+  letter-spacing: -0.12px;
+  min-width: 96px;
+  text-align: center;
+}

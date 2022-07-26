@@ -1,0 +1,576 @@
+/* screen - admin-gongjisahang-gwanri-gongjisahang-deungrog-modal */
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 1442px;
+  width: 1920px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .overlap-group1 {
+  height: 81px;
+  margin-top: -1px;
+  position: relative;
+  width: 1920px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .as {
+  left: 944px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 32px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .header {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 200px;
+  position: absolute;
+  top: 1px;
+  width: 1920px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .text {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .text-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-sidebar-dashboard {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-7 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 55px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-8 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 81px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-9 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 84px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-10 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 52px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-11 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 27px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-12 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 925px;
+  margin-right: 1.0px;
+  margin-top: 80px;
+  width: 1269px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .h2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: 1268px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .title-1 {
+  color: var(--charade);
+  font-family: var(--font-family-spoqa_han_sans_neo-bold);
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -1.80px;
+  margin-top: -1px;
+  min-width: 167px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-soartingbar-c3 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 220px;
+  justify-content: center;
+  padding: 0px 50px 0px 40px;
+  width: 1269px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-soartingbar-c3-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 40px;
+  height: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .dropdown-list {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 40px;
+  height: 60px;
+  justify-content: center;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .dropdown {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 20px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .title-2 {
+  letter-spacing: 0;
+  min-width: 26px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-dropdown-default {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 20px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .contents {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  margin-bottom: -0.5px;
+  margin-top: -0.5px;
+  width: 183px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .text-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  width: 151px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .lc-dropdown {
+  height: 10px;
+  min-width: 10px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 145px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .text-3 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .dropdown-list-1 {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  height: 60px;
+  justify-content: center;
+  width: 591px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .title {
+  letter-spacing: 0;
+  min-width: 39px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-1 {
+  border-radius: 4px;
+  height: 690px;
+  margin-bottom: -101px;
+  min-width: 1267px;
+  overflow: hidden;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .overlap-group {
+  height: 691px;
+  left: -1px;
+  position: relative;
+  width: 1269px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-list-1 {
+  align-items: center;
+  background-color: #413e4a;
+  display: flex;
+  height: 58px;
+  justify-content: space-between;
+  left: 1px;
+  padding: 0px 80px;
+  position: absolute;
+  top: 0;
+  width: 1267px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-1 {
+  height: 46px;
+  min-width: 1px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-2 {
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 60px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-14 {
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 108px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 57px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .comp-list {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 79px;
+  justify-content: space-between;
+  padding: 0px 80px;
+  width: 1267px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-3 {
+  letter-spacing: -0.12px;
+  min-width: 63px;
+  text-align: center;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-4 {
+  align-items: center;
+  box-shadow: 0px 4px 20px #2b31350d;
+  display: flex;
+  gap: 6px;
+  height: min-content;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-5 {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 34px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .node-6 {
+  flex: 1;
+  letter-spacing: -0.12px;
+  margin-top: -1px;
+  text-align: center;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 136px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-1 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 215px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 294px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-3 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 373px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-4 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 452px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-5 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 531px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-6 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .group-9 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: min-content;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 610px;
+  width: min-content;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .btn-7 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 121px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .pager {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  height: min-content;
+  justify-content: center;
+  margin-bottom: -158px;
+  width: 146px;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .number {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 9px;
+  text-align: center;
+}
+
+.admin-gongjisahang-gwanri-gongjisahang-deungrog-modal .lc-dropdown-1 {
+  height: 16px;
+  min-width: 16px;
+}

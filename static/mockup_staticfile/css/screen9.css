@@ -1,0 +1,931 @@
+/* screen - screen9 */
+
+.screen9 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 3313px;
+  width: 1920px;
+}
+
+.screen9 .header {
+  align-items: center;
+  display: flex;
+  gap: 300px;
+  height: 80px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.screen9 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.screen9 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.screen9 .text-7 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.screen9 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  width: min-content;
+}
+
+.screen9 .text {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.screen9 .benefits {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.screen9 .haruki-primary-arrow-down-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.screen9 .benefits-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.screen9 .haruki-primary-arrow-down-2-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.screen9 .text-8 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.screen9 .benefits-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.screen9 .haruki-primary-arrow-down-2-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.screen9 .text-9 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.screen9 .group-2 {
+  height: 20px;
+  min-width: 66px;
+}
+
+.screen9 .group-3 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 30px;
+  width: min-content;
+}
+
+.screen9 .price {
+  letter-spacing: 3.00px;
+  margin-top: -1px;
+  min-width: 28px;
+}
+
+.screen9 .vector {
+  height: 11px;
+  min-width: 15px;
+}
+
+.screen9 .nav-type-1 {
+  align-items: center;
+  background-color: var(--chicago);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0px 220px;
+  width: 1920px;
+}
+
+.screen9 .node-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: min-content;
+}
+
+.screen9 .group {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.screen9 .text-10 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.screen9 .text-11 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.screen9 .text-12 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.screen9 .text-13 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.screen9 .group-4 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.screen9 .charmpeople {
+  height: 16px;
+  min-width: 16px;
+}
+
+.screen9 .text-14 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.screen9 .comp-menu-bar-btn-list {
+  align-items: center;
+  background-color: var(--alabaster-2);
+  display: flex;
+  gap: 80px;
+  height: 135px;
+  justify-content: center;
+  margin-top: 89px;
+  padding: 38px 525px;
+  width: 1594px;
+}
+
+.screen9 .btn-contents {
+  align-self: stretch;
+  height: 59px;
+  min-width: 42px;
+  position: relative;
+}
+
+.screen9 .ic-faq {
+  height: 30px;
+  left: 576px;
+  position: absolute;
+  top: 38px;
+  width: 40px;
+}
+
+.screen9 .title {
+  left: 8px;
+  letter-spacing: -0.16px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  width: 24px;
+}
+
+.screen9 .in-notice {
+  height: 30px;
+  left: 696px;
+  position: absolute;
+  top: 38px;
+  width: 40px;
+}
+
+.screen9 .title-1 {
+  left: 5px;
+  letter-spacing: -0.16px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  width: 30px;
+}
+
+.screen9 .btn-contents-1 {
+  align-self: stretch;
+  height: 59px;
+  min-width: 61px;
+}
+
+.screen9 .overlap-group-1 {
+  height: 30px;
+  position: relative;
+  top: 38px;
+  width: 59px;
+}
+
+.screen9 .in-notice-1 {
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.screen9 .title-2 {
+  left: 0;
+  letter-spacing: -0.16px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 59px;
+}
+
+.screen9 .btn-contents-2 {
+  align-self: stretch;
+  height: 59px;
+  min-width: 64px;
+  position: relative;
+}
+
+.screen9 .ricustomer-service-2-fill {
+  height: 33px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.screen9 .title-3 {
+  left: 0;
+  letter-spacing: -0.16px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  width: 62px;
+}
+
+.screen9 .frame-4555 {
+  align-items: center;
+  background-color: var(--alabaster-3);
+  display: flex;
+  gap: 10px;
+  height: 1369px;
+  justify-content: center;
+  margin-right: 1.0px;
+  margin-top: 93px;
+  width: 1271px;
+}
+
+.screen9 .group-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  height: min-content;
+  justify-content: center;
+  width: 945px;
+}
+
+.screen9 .h1-hypher {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+}
+
+.screen9 .h1-hypher-1 {
+  color: var(--charade);
+  font-family: var(--font-family-spoqa_han_sans_neo-light);
+  font-size: 40px;
+  font-weight: 300;
+  letter-spacing: -2.40px;
+  margin-top: -1px;
+  min-width: 291px;
+  text-align: center;
+}
+
+.screen9 .group-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+}
+
+.screen9 .h4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.screen9 .h4-1 {
+  letter-spacing: -1.20px;
+  margin-top: -1px;
+  min-width: 202px;
+  text-align: center;
+}
+
+.screen9 .comp-dropdown-default {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 22px 20px;
+}
+
+.screen9 .contents-1 {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  width: 183px;
+}
+
+.screen9 .text-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  width: 151px;
+}
+
+.screen9 .lc-dropdown {
+  height: 10px;
+  min-width: 10px;
+}
+
+.screen9 .h4-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.screen9 .h4-3 {
+  letter-spacing: -1.20px;
+  margin-top: -1px;
+  min-width: 210px;
+  text-align: center;
+}
+
+.screen9 .comp-dropdown-default-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: flex-end;
+  padding: 20px 140px;
+}
+
+.screen9 .text-15 {
+  letter-spacing: 0;
+}
+
+.screen9 .h4-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.screen9 .h4-5 {
+  letter-spacing: -1.20px;
+  margin-top: -1px;
+  min-width: 312px;
+  text-align: center;
+}
+
+.screen9 .comp-dropdown-default-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 500px;
+  padding: 50px 140px;
+}
+
+.screen9 .text-16 {
+  letter-spacing: 0;
+  margin-top: -1px;
+}
+
+.screen9 .input {
+  background-color: var(--tuna-2);
+  border-radius: 4px;
+  height: 40px;
+  min-width: 620px;
+  position: relative;
+}
+
+.screen9 .text-17 {
+  height: 15px;
+  left: 268px;
+  letter-spacing: -1.00px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 85px;
+}
+
+.screen9 .frame-4556 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  margin-right: 1.0px;
+  margin-top: 93px;
+  width: 1595px;
+}
+
+.screen9 .h2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: 1268px;
+}
+
+.screen9 .title-4 {
+  letter-spacing: -1.80px;
+  margin-top: -1px;
+  min-width: 96px;
+}
+
+.screen9 .comp-soartingbar-c3 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  height: 130px;
+  justify-content: space-between;
+  padding: 0px 50px 0px 40px;
+  width: 1269px;
+}
+
+.screen9 .dropdown-list {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  height: 60px;
+  justify-content: center;
+  width: 591px;
+}
+
+.screen9 .dropdown {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 20px;
+}
+
+.screen9 .title-5 {
+  letter-spacing: 0;
+  min-width: 52px;
+}
+
+.screen9 .comp-dropdown-default-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 22px 20px;
+}
+
+.screen9 .contents-2 {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+  margin-bottom: -1px;
+  margin-top: -1px;
+  width: 183px;
+}
+
+.screen9 .comp-sellect-date-default-c2 {
+  height: 62px;
+  min-width: 364px;
+  position: relative;
+}
+
+.screen9 .comp-sellect-date-default {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.screen9 .contents {
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  flex: 1;
+  height: 62px;
+  min-width: 176.03px;
+}
+
+.screen9 .overlap-group {
+  height: 24px;
+  left: 40px;
+  position: relative;
+  top: 19px;
+  width: 140px;
+}
+
+.screen9 .text-2 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 140px;
+}
+
+.screen9 .icon-calendar {
+  height: 24px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.screen9 .comp-sellect-date-default-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  left: 188px;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.screen9 .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  width: 145px;
+}
+
+.screen9 .node-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.screen9 .text-18 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}
+
+.screen9 .group-6 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  justify-content: center;
+  overflow: hidden;
+  width: 1270px;
+}
+
+.screen9 .regular-1 {
+  align-items: center;
+  background-color: #423f4a;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0px 80px;
+  width: 1270px;
+}
+
+.screen9 .text-19 {
+  height: 15px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 250px;
+}
+
+.screen9 .text-20 {
+  height: 15px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 200px;
+}
+
+.screen9 .text-3 {
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 100px;
+}
+
+.screen9 .regular {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0px 80px;
+}
+
+.screen9 .text-4 {
+  height: 14px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 250px;
+}
+
+.screen9 .text-5 {
+  height: 14px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 200px;
+}
+
+.screen9 .text-6 {
+  height: 14px;
+  letter-spacing: -0.12px;
+  text-align: center;
+  width: 100px;
+}
+
+.screen9 .btn {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .node {
+  letter-spacing: -0.12px;
+  margin-left: -5px;
+  margin-right: -5px;
+  margin-top: -1px;
+  text-align: center;
+  width: 60px;
+}
+
+.screen9 .btn-1 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-2 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-3 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-4 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-5 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-6 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-7 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-8 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-9 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-10 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-11 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .btn-12 {
+  align-items: center;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 25px;
+  width: 100px;
+}
+
+.screen9 .pager {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.screen9 .number {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 8px;
+  text-align: center;
+}
+
+.screen9 .number-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 7px;
+  text-align: center;
+}
+
+.screen9 .lc-dropdown-1 {
+  height: 16px;
+  min-width: 16px;
+}

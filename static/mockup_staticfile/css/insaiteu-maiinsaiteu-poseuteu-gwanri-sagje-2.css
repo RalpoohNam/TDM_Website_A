@@ -1,0 +1,1328 @@
+/* screen - insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 */
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  height: 1381px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group1 {
+  height: 2167px;
+  position: relative;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .comp-list-index {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 114px;
+  justify-content: center;
+  left: 161px;
+  position: absolute;
+  top: 290px;
+  width: 1597px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 10px;
+  display: flex;
+  gap: 6px;
+  height: 114px;
+  justify-content: center;
+  width: 259px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .dj30 {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .phone {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  min-width: 36px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value {
+  height: 69.54px;
+  min-width: 114px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .header {
+  align-items: center;
+  display: flex;
+  gap: 300px;
+  height: 80px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-4 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .benefits {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .haruki-primary-arrow-down-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .benefits-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .haruki-primary-arrow-down-2-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-5 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .benefits-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .haruki-primary-arrow-down-2-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-6 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-2 {
+  height: 20px;
+  min-width: 66px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-3 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 30px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .price {
+  letter-spacing: 3.00px;
+  margin-top: -1px;
+  min-width: 28px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .vector {
+  height: 11px;
+  min-width: 15px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .nav-type-1 {
+  align-items: center;
+  background-color: var(--chicago);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 220px;
+  position: absolute;
+  top: 80px;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-7 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-8 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-9 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-10 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-4 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .charmpeople {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-11 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .nav-3 {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 130px;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-1 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-2 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 77px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-4 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 37px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-5 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 52px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-6 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 46px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .header-profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 364px;
+  left: 162px;
+  position: absolute;
+  top: 464px;
+  width: 1596px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .profile {
+  align-items: flex-start;
+  background-color: var(--ebony-clay);
+  border-radius: 15px 15px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 60px 161px;
+  width: 1596px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .avatar {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .x1 {
+  height: 142px;
+  min-width: 142px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .name {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-7 {
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-8 {
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-item {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 40px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .primary-button {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 61px;
+  text-align: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .primary-button-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 101px;
+  text-align: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .tab {
+  align-items: flex-start;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .profile-active-2 {
+  height: 87px;
+  min-width: 116.07px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .post {
+  align-items: flex-start;
+  display: flex;
+  height: 87px;
+  justify-content: center;
+  overflow: hidden;
+  width: 116px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  width: 118px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .place {
+  letter-spacing: 0.20px;
+  margin-left: 0;
+  margin-top: 10px;
+  min-height: 21px;
+  text-align: center;
+  width: 50px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .number {
+  letter-spacing: 0.10px;
+  margin-left: 0;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 66px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .shape {
+  background-color: var(--blue-ribbon);
+  border-radius: 15px 15px 0px 0px;
+  height: 5px;
+  margin-top: 9px;
+  width: 118px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .profile-active {
+  height: 71px;
+  min-width: 151.54px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .likes {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  justify-content: center;
+  overflow: hidden;
+  width: 152px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 21.6px;
+  width: 154px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-2 {
+  letter-spacing: 0.20px;
+  min-height: 21px;
+  text-align: center;
+  width: 108px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .x122-k {
+  letter-spacing: 0.10px;
+  margin-right: 17.73px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 73px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 20.8px;
+  width: 154px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .x122-k-1 {
+  letter-spacing: 0.10px;
+  margin-right: 21.76px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 66px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .profile-active-1 {
+  height: 71px;
+  min-width: 119.3px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .likes-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  justify-content: center;
+  overflow: hidden;
+  width: 119px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 29.9px;
+  width: 121px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-12 {
+  align-self: center;
+  letter-spacing: 0.20px;
+  margin-left: 1.78px;
+  min-height: 21px;
+  text-align: center;
+  width: 55px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .x122-k-2 {
+  letter-spacing: 0.10px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 61px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 20.3px;
+  width: 121px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-3 {
+  letter-spacing: 0.20px;
+  min-height: 21px;
+  text-align: center;
+  width: 79px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .x122-k-3 {
+  letter-spacing: 0.10px;
+  margin-right: 24.18px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .profile-active-3 {
+  height: 71px;
+  margin-right: -9.16e-05px;
+  min-width: 119.3px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .x122-k-4 {
+  letter-spacing: 0.10px;
+  margin-right: 23.38px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 1223px;
+  justify-content: space-between;
+  left: 163px;
+  position: absolute;
+  top: 868px;
+  width: 1595px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 20px 0px;
+  width: 464px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: min-content;
+  padding: 20px 0px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  margin-right: -7px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-13 {
+  letter-spacing: 0.10px;
+  margin-top: -1px;
+  min-width: 68px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .separator {
+  height: 1px;
+  min-width: 471px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-14 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  width: 290px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .join {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .ic_date {
+  background-image: url(../img/shape@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  min-width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-15 {
+  letter-spacing: 0.20px;
+  margin-top: -1px;
+  min-width: 121px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #3864f61a;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 305px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 40px 90px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .big-movers {
+  letter-spacing: 0;
+  width: 252px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .frame-4245 {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .frame-424 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .percent {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 29px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .rectangle-996 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 114px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .place-1 {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .rectangle-996-1 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 97px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .btc {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .rectangle-996-2 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 85px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .lun {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .rectangle-996-3 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 63px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .sol {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .percent-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 23px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .rectangle-996-4 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 26px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .doge {
+  letter-spacing: 0;
+  min-width: 26px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .top-losers {
+  letter-spacing: 0;
+  width: 252px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .place-2 {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .btc-1 {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .lun-1 {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .sol-1 {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 1110px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .h1 {
+  align-self: stretch;
+  height: 36px;
+  min-width: 1110px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .title {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: -1px;
+  width: 1110px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .coin {
+  align-self: stretch;
+  height: 50px;
+  min-width: 1110px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-container {
+  height: 52px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1111px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-9 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-10 {
+  letter-spacing: 0.30px;
+  line-height: 54px;
+  margin-top: -2.5px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-11 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 278px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-1 {
+  letter-spacing: 0.30px;
+  line-height: 54px;
+  margin-top: -2.5px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-12 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 555px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-13 {
+  align-items: center;
+  background-color: var(--outer-space);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  left: 834px;
+  position: absolute;
+  top: 1px;
+  width: 278px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-14 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-13 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  padding: 60px 0px;
+  width: 1111px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .comp-post {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #7da9ffa6;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  padding: 80px 140px;
+  width: 1111px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-15 {
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-15 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-16 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 54px;
+  text-align: right;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .value-17 {
+  letter-spacing: 0;
+  min-width: 41px;
+  text-align: right;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .post-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-8 {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 0px 4px 20px #4c89ff40;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  padding: 20px 10px 40px;
+  width: 831px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .title-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  margin-top: -1px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .group-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 30px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .post-photos {
+  align-self: stretch;
+  flex: 1;
+  height: 175px;
+  min-width: 400.5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .post-photos-1 {
+  height: 155px;
+  min-width: 450.53px;
+  object-fit: cover;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .comment {
+  align-self: stretch;
+  height: 46px;
+  margin-right: -2px;
+  min-width: 833px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlap-group-5 {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 15px;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  left: 63px;
+  min-width: 768px;
+  position: absolute;
+  top: 0;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .write-your-comment {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  margin-bottom: 2.0px;
+  min-height: 24px;
+  white-space: nowrap;
+  width: 193px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .ic_attachment {
+  height: 22px;
+  margin-bottom: 0.02px;
+  margin-left: 396px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .shape-1 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -721.0px;
+  margin-left: 899px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .shape-2 {
+  align-self: flex-end;
+  height: 20px;
+  margin-bottom: -721px;
+  margin-left: 91px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .pp1 {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 32px;
+  position: absolute;
+  top: 5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .pp1-1 {
+  height: 36px;
+  margin-bottom: -726px;
+  width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .btn-list {
+  align-items: flex-end;
+  align-self: stretch;
+  border-radius: 0px 0px 4px 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: flex-end;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .button-ic {
+  background-color: var(--flowkitcharcoal);
+  border-radius: 4px;
+  height: 30px;
+  min-width: 100px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-9 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  position: relative;
+  top: 8px;
+  width: 100px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-16 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 47px;
+  text-align: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .overlay {
+  background-color: var(--mirage-2);
+  height: 2167px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .card-message {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: 629px;
+  justify-content: center;
+  left: 487px;
+  position: absolute;
+  top: 376px;
+  width: 945px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .h1-1 {
+  height: 36px;
+  min-width: 620px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .title-2 {
+  left: 0;
+  letter-spacing: -1.44px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 620px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .frame-4255 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  width: 620px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .btn-list-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 20px;
+  height: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .comp-btn-defualt {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .node-10 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--charade);
+  border-radius: 4px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px 40px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sagje-2 .text-17 {
+  letter-spacing: -0.12px;
+  min-width: 22px;
+  text-align: center;
+}

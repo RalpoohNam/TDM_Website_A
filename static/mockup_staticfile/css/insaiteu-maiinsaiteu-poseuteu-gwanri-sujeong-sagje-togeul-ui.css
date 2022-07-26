@@ -1,0 +1,1871 @@
+/* screen - insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui */
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  display: flex;
+  flex-direction: column;
+  height: 2081px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .header {
+  align-items: center;
+  display: flex;
+  gap: 300px;
+  height: 80px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .bi {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .symbol {
+  height: 36px;
+  min-width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-9 {
+  letter-spacing: 0.50px;
+  line-height: 24.0px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .right {
+  align-items: center;
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-10 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .benefits {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .haruki-primary-arrow-down-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-11 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .benefits-1 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .haruki-primary-arrow-down-2-1 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-12 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-13 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .benefits-2 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .haruki-primary-arrow-down-2-2 {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-14 {
+  letter-spacing: -0.22px;
+  line-height: 24.0px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-6 {
+  height: 20px;
+  min-width: 66px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-7 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 30px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .price {
+  letter-spacing: 3.00px;
+  margin-top: -1px;
+  min-width: 28px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .vector {
+  height: 11px;
+  min-width: 15px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .nav-type-1 {
+  align-items: center;
+  background-color: var(--chicago);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0px 220px;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group {
+  align-items: center;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-15 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 129px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-16 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-17 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-18 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-8 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .charmpeople {
+  height: 16px;
+  min-width: 16px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-19 {
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .nav-3 {
+  align-items: center;
+  background-color: var(--charade);
+  display: flex;
+  gap: 40px;
+  height: 89px;
+  justify-content: center;
+  width: 1920px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-3 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 77px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-4 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-5 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 37px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-6 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-7 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 52px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-8 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-9 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 46px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-10 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .comp-list-index {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-right: 1.0px;
+  margin-top: 71px;
+  width: 1597px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-1 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 10px;
+  display: flex;
+  gap: 6px;
+  height: 114px;
+  justify-content: center;
+  width: 259px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .dj30 {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-top: -1px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .phone {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-4 {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  min-width: 36px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value {
+  height: 69.54px;
+  min-width: 114px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .header-profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 364px;
+  margin-top: 60px;
+  width: 1596px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .profile {
+  align-items: flex-start;
+  background-color: var(--ebony-clay);
+  border-radius: 15px 15px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 60px 161px;
+  width: 1596px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .avatar {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .x1 {
+  height: 142px;
+  min-width: 142px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .name-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-7 {
+  letter-spacing: 0.10px;
+  line-height: 26px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-8 {
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-item {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  padding: 10px 40px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .primary-button {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 61px;
+  text-align: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .primary-button-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 101px;
+  text-align: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .tab {
+  align-items: flex-start;
+  display: flex;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .profile-active-2 {
+  height: 87px;
+  min-width: 116.07px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .post {
+  align-items: flex-start;
+  display: flex;
+  height: 87px;
+  justify-content: center;
+  overflow: hidden;
+  width: 116px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group-2 {
+  align-items: center;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  width: 118px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .place {
+  letter-spacing: 0.20px;
+  margin-left: 0;
+  margin-top: 10px;
+  min-height: 21px;
+  text-align: center;
+  width: 50px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .number {
+  letter-spacing: 0.10px;
+  margin-left: 0;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 66px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-6 {
+  background-color: var(--blue-ribbon);
+  border-radius: 15px 15px 0px 0px;
+  height: 5px;
+  margin-top: 9px;
+  width: 118px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .profile-active {
+  height: 71px;
+  min-width: 151.54px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  justify-content: center;
+  overflow: hidden;
+  width: 152px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 21.6px;
+  width: 154px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text {
+  letter-spacing: 0.20px;
+  min-height: 21px;
+  text-align: center;
+  width: 108px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .x122-k {
+  letter-spacing: 0.10px;
+  margin-right: 17.73px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 73px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 20.8px;
+  width: 154px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .x122-k-1 {
+  letter-spacing: 0.10px;
+  margin-right: 21.76px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 66px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .profile-active-1 {
+  height: 71px;
+  min-width: 119.3px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  justify-content: center;
+  overflow: hidden;
+  width: 119px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 29.9px;
+  width: 121px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-20 {
+  align-self: center;
+  letter-spacing: 0.20px;
+  margin-left: 1.78px;
+  min-height: 21px;
+  text-align: center;
+  width: 55px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .x122-k-2 {
+  letter-spacing: 0.10px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 61px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group {
+  align-items: flex-end;
+  background-color: var(--flowkitwhite);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -1px;
+  min-height: 73px;
+  padding: 10px 20.3px;
+  width: 121px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-1 {
+  letter-spacing: 0.20px;
+  min-height: 21px;
+  text-align: center;
+  width: 79px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .x122-k-3 {
+  letter-spacing: 0.10px;
+  margin-right: 24.18px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .profile-active-3 {
+  height: 71px;
+  margin-right: -9.16e-05px;
+  min-width: 119.3px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .x122-k-4 {
+  letter-spacing: 0.10px;
+  margin-right: 23.38px;
+  margin-top: 4px;
+  min-height: 24px;
+  text-align: center;
+  width: 32px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group1 {
+  height: 2988px;
+  margin-left: 1.0px;
+  margin-top: 80px;
+  position: relative;
+  width: 1595px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 2988px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1595px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 20px 0px;
+  width: 464px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  height: min-content;
+  padding: 20px 0px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  margin-right: -7px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-21 {
+  letter-spacing: 0.10px;
+  margin-top: -1px;
+  min-width: 68px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .separator {
+  height: 1px;
+  min-width: 471px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-22 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  width: 290px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .join {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_date {
+  background-image: url(../img/shape@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  min-width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-23 {
+  letter-spacing: 0.20px;
+  margin-top: -1px;
+  min-width: 121px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #3864f61a;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 305px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 40px 90px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .big-movers {
+  letter-spacing: 0;
+  width: 252px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .frame-4245 {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .frame-424 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .percent {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 29px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .rectangle-996 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 114px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .place-1 {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .rectangle-996-1 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 97px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .btc {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .rectangle-996-2 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 85px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .lun {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .rectangle-996-3 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 63px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .sol {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .percent-1 {
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 23px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .rectangle-996-4 {
+  background-color: var(--fuscous-gray);
+  border-radius: 4px;
+  height: 26px;
+  min-width: 31px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .doge {
+  letter-spacing: 0;
+  min-width: 26px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .top-losers {
+  letter-spacing: 0;
+  width: 252px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .place-2 {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .btc-1 {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .lun-1 {
+  letter-spacing: 0;
+  min-width: 19px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .sol-1 {
+  letter-spacing: 0;
+  min-width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-16 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 1110px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .h1 {
+  align-self: stretch;
+  height: 36px;
+  min-width: 1110px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .title {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: -1px;
+  width: 1110px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .coin {
+  align-self: stretch;
+  height: 50px;
+  min-width: 1110px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-container {
+  height: 52px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1111px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-9 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-10 {
+  letter-spacing: 0.30px;
+  line-height: 54px;
+  margin-top: -2.5px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-11 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 278px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-1 {
+  letter-spacing: 0.30px;
+  line-height: 54px;
+  margin-top: -2.5px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-12 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 52px;
+  justify-content: center;
+  left: 555px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-13 {
+  align-items: center;
+  background-color: var(--outer-space);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  left: 834px;
+  position: absolute;
+  top: 1px;
+  width: 278px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-14 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-17 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: min-content;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  padding: 60px 0px;
+  width: 1111px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .comp-post-input {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  padding: 30px 40px;
+  width: 948px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-24 {
+  align-self: stretch;
+  letter-spacing: 0.10px;
+  margin-top: -1px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .separator-3 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 868px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-18 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-19 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .avatar-1 {
+  background-image: url(../img/pp1-25@2x.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  min-width: 36px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-25 {
+  letter-spacing: 0.10px;
+  width: 243.44px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_-image {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-7 {
+  height: 20px;
+  left: 848px;
+  position: absolute;
+  top: 8px;
+  width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .comp-post-default {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  padding: 40px;
+  width: 950px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: min-content;
+  justify-content: space-between;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .user {
+  height: 42px;
+  min-width: 292.19px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 79px;
+  min-height: 39px;
+  position: absolute;
+  top: 2px;
+  width: 209px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .name {
+  letter-spacing: 0.10px;
+  min-height: 21px;
+  width: 209px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .address {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 14px;
+  width: 165px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1 {
+  background-image: url(../img/pp1-26@2x.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .componenticonic_-more {
+  height: 4px;
+  min-width: 24.84px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 25px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-2 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .separator-1 {
+  background-color: var(--seashell);
+  height: 3px;
+  margin-top: -1px;
+  min-width: 402px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .post-action {
+  align-items: flex-end;
+  display: flex;
+  gap: 113px;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .comment {
+  align-items: flex-end;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_comment-1 {
+  height: 25px;
+  margin-left: 0px;
+  min-width: 37.94px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-3 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  min-width: 81px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .icon-heart {
+  height: 24px;
+  margin-left: 0px;
+  min-width: 21.83px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-5 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .share {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .icon-share {
+  height: 24px;
+  margin-left: 0px;
+  min-width: 24.11px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-6 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .saved {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_-saved {
+  height: 24px;
+  min-width: 28.09px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .icon-bookmark {
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-7 {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .separator-2 {
+  background-color: var(--seashell);
+  height: 3px;
+  margin-bottom: -1px;
+  min-width: 402px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .comment-1 {
+  align-self: stretch;
+  height: 46px;
+  margin-left: 0px;
+  margin-right: -2px;
+  min-width: 872px;
+  position: relative;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group-6 {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 15px;
+  display: flex;
+  height: 46px;
+  left: 66px;
+  min-width: 804px;
+  padding: 0 20.9px;
+  position: absolute;
+  top: 0;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .write-your-comment {
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  margin-bottom: 2.0px;
+  min-height: 24px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .icon-paperclip {
+  height: 22px;
+  margin-bottom: 0.02px;
+  margin-left: 414px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-8 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -243.0px;
+  margin-left: 37px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-9 {
+  align-self: flex-end;
+  height: 20px;
+  margin-bottom: -243px;
+  margin-left: 39px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  left: 0;
+  min-width: 33px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-2 {
+  height: 36px;
+  margin-bottom: -248px;
+  width: 33px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-3 {
+  background-image: url(../img/pp1-28@2x.svg);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .group-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 30px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .post-photos {
+  align-self: stretch;
+  flex: 1;
+  height: 175px;
+  min-width: 420px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .post-photos-1 {
+  height: 39px;
+  min-width: 450.53px;
+  object-fit: cover;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_comment {
+  height: 25px;
+  min-width: 37.94px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic {
+  height: 24px;
+  min-width: 21.83px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .share-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-1 {
+  height: 24px;
+  min-width: 24.11px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .saved-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-15 {
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .overlap-group-1 {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 15px;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  left: 66px;
+  min-width: 804px;
+  position: absolute;
+  top: 0;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_attachment {
+  height: 22px;
+  margin-bottom: 0.02px;
+  margin-left: 414px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-1 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -633.0px;
+  margin-left: 835px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-2 {
+  align-self: flex-end;
+  height: 20px;
+  margin-bottom: -633px;
+  margin-left: 96px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 33px;
+  position: absolute;
+  top: 5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-5 {
+  height: 36px;
+  margin-bottom: -638px;
+  width: 33px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-6 {
+  background-image: url(../img/line-11-5@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-3 {
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: -10px;
+  width: 4px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-2 {
+  height: 24px;
+  min-width: 21.83px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .share-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-3 {
+  height: 24px;
+  min-width: 24.11px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .saved-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-16 {
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_attachment-1 {
+  height: 22px;
+  margin-bottom: 0.02px;
+  margin-left: 414px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-4 {
+  align-self: flex-end;
+  height: 21px;
+  margin-bottom: -243.0px;
+  margin-left: 835px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .shape-5 {
+  align-self: flex-end;
+  height: 20px;
+  margin-bottom: -243px;
+  margin-left: 96px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 33px;
+  position: absolute;
+  top: 5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-8 {
+  height: 36px;
+  margin-bottom: -248px;
+  width: 33px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-9 {
+  background-image: url(../img/line-11-5@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .post-photos-2 {
+  height: 155px;
+  min-width: 450.53px;
+  object-fit: cover;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-4 {
+  height: 24px;
+  min-width: 21.83px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .share-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-5 {
+  height: 24px;
+  min-width: 24.11px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .saved-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-17 {
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_attachment-2 {
+  height: 22px;
+  margin-bottom: 0.02px;
+  margin-left: 414px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-10 {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 33px;
+  position: absolute;
+  top: 5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-11 {
+  height: 36px;
+  margin-bottom: -638px;
+  width: 33px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-12 {
+  background-image: url(../img/line-11-5@2x.png);
+  background-size: 100% 100%;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .likes-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-6 {
+  height: 24px;
+  min-width: 21.83px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .share-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic-7 {
+  height: 24px;
+  min-width: 24.11px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .saved-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .value-18 {
+  height: 21px;
+  left: 5px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .ic_attachment-3 {
+  height: 22px;
+  margin-bottom: 0.02px;
+  margin-left: 414px;
+  width: 18px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-13 {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 33px;
+  position: absolute;
+  top: 5px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .pp1-14 {
+  height: 36px;
+  margin-bottom: -248px;
+  width: 33px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .btn-list {
+  align-items: flex-start;
+  background-color: var(--flowkitwhite);
+  border: 1px solid #99c7ff;
+  border-radius: 4px;
+  box-shadow: 2px 4px 20px #99c8ff1a;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 202px;
+  left: 1176px;
+  padding: 20px;
+  position: absolute;
+  top: 490px;
+  width: 267px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .button-ic {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #f7f7f7;
+  border: 1px solid var(--gallery);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  padding: 10px 20px;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-11 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .text-8 {
+  color: #7e817e;
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: -1px;
+  min-width: 58px;
+  text-align: center;
+}
+
+.insaiteu-maiinsaiteu-poseuteu-gwanri-sujeong-sagje-togeul-ui .node-12 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
