@@ -1,10 +1,10 @@
-from django.urls import path, include
+from django.urls import path
 
 from kimpinfoapp.views import kimp_table, mockuppage
 
 app_name = "kimpinfoapp"
 
 urlpatterns = [
-    path('',mockuppage),
+    path('', mockuppage),
     path('kimp_table/', kimp_table)
 ]

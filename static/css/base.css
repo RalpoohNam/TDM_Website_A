@@ -1,0 +1,172 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+.headdisplay{
+    position: fixed;
+    z-index:9999;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    margin: 0;
+    padding: 0;
+    height: 2rem;
+}
+#headmarqee{
+    padding-top: 0.2rem;
+    height: 2rem;
+}
+.boardtext {
+    display: inline-block;
+    padding: 0 1.5rem;
+}
+.boardtext a{
+    font-family: LED font, sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    color: white;
+    text-decoration: none;
+}
+
+header{
+    background-color: white;
+    position: relative;
+    margin-top: 2rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 3rem;
+    background-color: #b3e5fc;
+}
+
+.navbar__logo{
+    font-size: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.navbar__logo i{
+    color: #222222;
+}
+.navbar__logo a{
+    font-family: "Tway font", sans-serif;
+    text-decoration: none;
+    color: #222222;
+}
+
+.navbar__menu {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar__menu li{
+    padding: 1rem 2rem;
+    font-size: 0.8rem;
+}
+
+.navbar__menu li:hover{
+    background-color: white;
+    border-radius: 0.6rem;
+    height: max-content;
+}
+
+.navbar__menu li a{
+    font-family: "Tway font", sans-serif;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #222222;
+}
+
+
+/*.navbar__menu li:hover a{*/
+/*    font-size: 1.5rem;*/
+/*}*/
+
+.navbar__icon{
+    display: flex;
+    font-size: 1.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.navbar__icon li{
+    list-style: none;
+    padding: 1rem 1rem;
+}
+.navbar__icon li a{
+    color: #222222;
+}
+
+.navbar_toogleBtn{
+    display: none;
+}
+.navbar__toggleBtn{
+    display: none;
+    position: absolute;
+    top: 0.2rem;
+    right: 2rem;
+    font-size: 1.8rem;
+}
+.navbar__toggleBtn i{
+    color: #222222;
+}
+
+
+@media screen and (max-width: 980px){
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar__menu{
+        display: none;
+        flex-direction: column;
+        text-align: center;
+        width:100%;
+    }
+    .navbar__icon{
+        display: none;
+        justify-content: center;
+        width:100%;
+    }
+    .navbar__toggleBtn{
+        display: block;
+    }
+
+    .navbar__menu.active,
+    .navbar__icon.active{
+        display: flex;
+    }
+}
+
+
+.subnavbar{
+    position: relative;
+    background-color: #82b3c9;
+}
+
+.insight__Menu, .marketinfo__Menu{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.insight__Menu li, .marketinfo__Menu li{
+    padding: 0.8rem 1.3rem;
+}
+.insight__Menu li a, .marketinfo__Menu li a{
+    font-family: "Tway font", sans-serif;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: white;
+}
