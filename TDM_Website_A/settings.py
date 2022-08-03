@@ -129,7 +129,6 @@ STATIC_URL = 'static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_DIRS = [
     BASE_DIR / "static",
-    '/home/ubuntu/project/TDM_Web/static/',
 ]
 
 # Default primary key field type
