@@ -1,4 +1,5 @@
 {% load static %}
+
 <header>
         <div class="navbar container-xl">
                 <div class="navbar__logo">
@@ -8,8 +9,27 @@
 
                 <ul class="navbar__menu">
                         <li><a href="">홈</a></li>
-                        <li><a href="">인사이트 </a><i class="fa-solid fa-angle-down"></i></li>
-                        <li><a href="">마켓인포 </a><i class="fa-solid fa-angle-down"></i></li>
+                        <li id="insight__menu" class="insight__menu">
+                                <a href="#">
+                                        인사이트
+                                        <i class="fa-solid fa-angle-down"></i>
+                                </a>
+                                <ul id="insight__subMenu">
+                                        <li><a href="">최신피드</a></li>
+                                        <li><a href="">피드관리</a></li>
+                                </ul>
+                        </li>
+                        <li id="marketinfo__menu" class="marketinfo__menu">
+                                <a href="#">
+                                        마켓인포
+                                        <i class="fa-solid fa-angle-down"></i>
+                                </a>
+                                <ul id="marketinfo__subMenu">
+                                        <li><a href="">뉴스</a></li>
+                                        <li><a href="">그레이스케일</a></li>
+                                        <li><a href="">실시간펀딩비율</a></li>
+                                </ul>
+                        </li>
                         <li><a href="">전략</a></li>
                         <li><a href="">포트폴리오</a></li>
                         <li><a href="">About</a></li>
@@ -24,15 +44,7 @@
                         <i class="fa-solid fa-bars"></i>
                 </a>
         </div>
-        <div class="subnavbar container-xl">
-                <ul class="insight__Menu">
-                        <li><a href="">최신피드</a></li>
-                        <li><a href="">피드관리</a></li>
-                </ul>
-                <ul class="marketinfo__Menu">
-                        <li><a href="">뉴스</a></li>
-                        <li><a href="">그레이스케일</a></li>
-                        <li><a href="">실시간펀딩비율</a></li>
-                </ul>
+        <div id="testdiv">
+
         </div>
 </header>
