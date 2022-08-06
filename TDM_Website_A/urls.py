@@ -18,6 +18,9 @@ from django.urls import path, include
 
 urlpatterns = [
     path('', include('kimpinfoapp.urls')),
+    path('insight/', include('insightapp.urls')),
+    path('marketinfo/', include('marketinfoapp.urls')),
+    path('portfolio/', include('portfolioapp.urls')),
+    path('strategy/', include('strategyapp.urls')),
     path('admin/', admin.site.urls),
-    path('home/', include('kimpinfoapp.urls')),
 ]

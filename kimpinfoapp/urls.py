@@ -8,5 +8,5 @@ urlpatterns = [
     # path('', mockuppage),
     # path('kimp_table/', kimp_table)
     path('', kimp_table),
-    path('mockup/', mockuppage),
+    path('mockup/', mockuppage)
 ]

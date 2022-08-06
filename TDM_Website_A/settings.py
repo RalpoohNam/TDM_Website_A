@@ -47,6 +47,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'kimpinfoapp',
+    'insightapp',
+    'marketinfoapp',
+    'portfolioapp',
+    'strategyapp',
 ]
 
 MIDDLEWARE = [

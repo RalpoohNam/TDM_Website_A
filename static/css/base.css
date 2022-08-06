@@ -82,7 +82,7 @@ header{
 }
 .navbar__menu>li>a:hover{
     transition: all 1s;
-    background-color: white;
+    color: white;
     border-radius: 2rem;
 }
 
@@ -182,15 +182,15 @@ header{
     .navbar__toggleBtn{
         display: block;
     }
+    #insight__subMenu,
+    #marketinfo__subMenu {
+        display: block;
+        position: static;
+    }
 
     .navbar__menu.active,
     .navbar__icon.active{
+
         display: flex;
     }
 }
-
-#my_div {
-    background: green;
-    height: 100px;
-    width: 100px;
-  }
