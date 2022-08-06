@@ -182,15 +182,14 @@ header{
     .navbar__toggleBtn{
         display: block;
     }
+
     #insight__subMenu,
     #marketinfo__subMenu {
         display: block;
-        position: static;
     }
 
     .navbar__menu.active,
     .navbar__icon.active{
-
         display: flex;
     }
 }
