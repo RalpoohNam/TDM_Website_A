@@ -239,7 +239,7 @@ footer{
     display: flex;
     align-items: flex-start;
     justify-content:space-between;
-    padding: 2rem 10%;
+    padding: 1rem 10%;
     color: var(--white--color);
 }
 .foot__logo{
@@ -257,6 +257,9 @@ footer{
 }
 
 .law__related{
+    font-size: var(--font--small);
+    padding: 0;
+    letter-spacing: -1px;
     list-style: none;
 }
 .law__related li{
@@ -279,6 +282,9 @@ footer{
 
 
 @media screen and (max-width: 1450px) {
+    .page__info{
+        flex-direction: column;
+    }
     .page__info, social{
         padding: 5%;
     }
@@ -289,6 +295,11 @@ footer{
         flex-direction: column;
     }
 }
+
+
+/*----------------------------------------------------*/
+/*-----------------------kimp---------------------- */
+
 
 
 

@@ -25,3 +25,20 @@ marketinfoBtn.addEventListener('mouseover',() =>{
 marketinfoBtn.addEventListener('mouseout',() =>{
     marketinfomenu.style.display='none';
 });
+
+new TradingView.widget(
+    {
+    "width": 980,
+    "height": 610,
+    "symbol": "BINANCE:BTCUSDT",
+    "interval": "D",
+    "timezone": "Etc/UTC",
+    "theme": "light",
+    "style": "1",
+    "locale": "kr",
+    "toolbar_bg": "#f1f3f6",
+    "enable_publishing": false,
+    "allow_symbol_change": true,
+    "container_id": "tradingview_5547f"
+    }
+);
