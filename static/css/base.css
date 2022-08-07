@@ -300,8 +300,21 @@ footer{
 /*----------------------------------------------------*/
 /*-----------------------kimp---------------------- */
 
+.tradingview__container{
+    padding: 3rem 10%;
+    height: 680px;
+}
+#tradingview_5547f{
+    width: 100%;
+    height: 100%;
+}
 
-
+@media screen and (max-width: 800px) {
+    .tradingview__container{
+        padding: 3rem 0;
+        height: 320px;
+    }
+}
 
 
 
