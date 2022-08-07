@@ -251,6 +251,9 @@ footer{
 }
 
 .sign__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
     margin: 1rem 0;
     font-size: var(--font--micro);
     color: var(--white--color);
