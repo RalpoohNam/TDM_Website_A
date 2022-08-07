@@ -1,81 +1,38 @@
 {% load static %}
 
-<header>
-        <div class="navbar container-xxl">
-                <div class="navbar__logo">
-                        <i class="fa-brands fa-bitcoin"></i>
-                        <a href="">FUND3.0</a>
-                </div>
-
-                <ul class="navbar__menu">
-                        <li><a href="/">홈</a></li>
-                        <li id="insight__menu" class="insight__menu">
-                                <a href="#">
-                                        인사이트
-                                        <i class="fa-solid fa-angle-down"></i>
-                                </a>
-                                <ul id="insight__subMenu">
-                                        <li><a href="/insight">최신피드</a></li>
-                                        <li><a href="">피드관리</a></li>
-                                </ul>
-                        </li>
-                        <li id="marketinfo__menu" class="marketinfo__menu">
-                                <a href="#">
-                                        마켓인포
-                                        <i class="fa-solid fa-angle-down"></i>
-                                </a>
-                                <ul id="marketinfo__subMenu">
-                                        <li><a href="/marketinfo">뉴스</a></li>
-                                        <li><a href="">그레이스케일</a></li>
-                                        <li><a href="">실시간펀딩비율</a></li>
-                                </ul>
-                        </li>
-                        <li><a href="/strategy">전략</a></li>
-                        <li><a href="/portfolio">포트폴리오</a></li>
-                        <li><a href="">About</a></li>
-                </ul>
-
-                <ul class="navbar__icon">
-                        <li><a href=""><i class="fa-solid fa-user"></i></a></li>
-                        <li><a href=""><i class="fa-solid fa-gear"></i></a></li>
-                </ul>
-
-                <a href="#" class="navbar__toggleBtn">
-                        <i class="fa-solid fa-bars"></i>
-                </a>
+<hearder>
+    <div class="header__container">
+        <div class="header__logo">
+            <i class="fa-solid fa-coins"></i>
+            <span>FUND3.0</span>
         </div>
-        <div id="testdiv">
-
+        <ul class="main__menu">
+            <li class="home__button"><a href="#">홈</a></li>
+            <li class="insight__button">
+                <a href="#">인사이트</a>
+                <ul class="insight__submenu">
+                    <li><a href="#">최신피드</a></li>
+                    <li><a href="#">소셜관리</a></li>
+                </ul>
+            </li>
+            <li class="marketinfo__button">
+                <a href="#">마켓인포</a>
+                <ul class="marketinfo__submenu">
+                    <li><a href="#">뉴스</a></li>
+                    <li><a href="#">그레이스케일</a></li>
+                    <li><a href="#">펀딩레이트</a></li>
+                </ul>
+            </li>
+            <li class="strategy__button"><a href="#">전략</a></li>
+            <li class="portfolio__button"><a href="#">포트폴리오</a></li>
+        </ul>
+        <div class="userinfoAndSetting">
+            <i class="fa-solid fa-user"></i>
+            <i class="fa-solid fa-gears"></i>
+            <button class="base__currency" id="">krw/usd</button>
         </div>
-<!--        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">-->
-<!--          <div class="container-xxl">-->
-<!--            <a class="navbar-brand" href="#">FUND3.0</a>-->
-<!--            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">-->
-<!--              <span class="navbar-toggler-icon"></span>-->
-<!--            </button>-->
-<!--            <div class="collapse navbar-collapse" id="navbarNavDropdown">-->
-<!--              <ul class="navbar-nav">-->
-<!--                <li class="nav-item">-->
-<!--                  <a class="nav-link active" aria-current="page" href="#">Home</a>-->
-<!--                </li>-->
-<!--                <li class="nav-item">-->
-<!--                  <a class="nav-link" href="#">Features</a>-->
-<!--                </li>-->
-<!--                <li class="nav-item">-->
-<!--                  <a class="nav-link" href="#">Pricing</a>-->
-<!--                </li>-->
-<!--                <li class="nav-item dropdown">-->
-<!--                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">-->
-<!--                    Dropdown link-->
-<!--                  </a>-->
-<!--                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">-->
-<!--                    <li><a class="dropdown-item" href="#">Action</a></li>-->
-<!--                    <li><a class="dropdown-item" href="#">Another action</a></li>-->
-<!--                    <li><a class="dropdown-item" href="#">Something else here</a></li>-->
-<!--                  </ul>-->
-<!--                </li>-->
-<!--              </ul>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </nav>-->
-</header>
+        <button id="menu__button">
+            <i class="fa-solid fa-bars"></i>
+        </button>
+    </div>
+</hearder>

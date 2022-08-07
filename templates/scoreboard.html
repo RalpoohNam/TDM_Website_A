@@ -1,19 +1,8 @@
 {% load static %}
-<div class="headdisplay">
-    <marquee id="headmarqee" behavior="scroll" direction=right" scrollamount="15" loop="-1" bgcolor="#333333" onMouseOver="this.stop()" onMouseOut="this.start()">
-        <ul>
-            <li class="boardtext">
-                <a href="#">FUND3.0 TEST Board</a>
-            </li>
-            <li class="boardtext">
-                <a href="https://kr.investing.com/currencies/usd-krw">USD:1,309</a>
-            </li>
-            <li class="boardtext">
-                <a href="https://kr.investing.com/crypto/bitcoin/btc-krw">BTC/KRW:30,180,187.49</a>
-            </li>
-            <li class="boardtext">
-                <a href="https://kr.investing.com/crypto/bitcoin/btc-usd">BTC/USD:23033.30</a>
-            </li>
+    <section class="scoreboard">
+        <ul class="scoreboard__text">
+            <li><a id="KRW__exchgrate" href="">USD:1,309</a></li>
+            <li><a id="BTC__price" href="">BTC/KRW:30,180,187.49</a></li>
+            <li><a id="ETH__price" href="">ETH/KRW:2,231,658.61</a></li>
         </ul>
-    </marquee>
-</div>
+    </section>
