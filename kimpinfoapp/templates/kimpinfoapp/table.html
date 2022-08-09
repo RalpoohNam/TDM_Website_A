@@ -1,11 +1,101 @@
 {% extends 'base.html' %}
 {% block content %}
 <!-- TradingView Widget BEGIN -->
-<!-- TradingView Widget BEGIN -->
+<section class="home__body">
+    <section class="live__form">
+        <section class="live__graph">
+            <div id="tradingview_5547f"></div>
+        </section>
+        <section class="live__chat">
+            <div class="chat__title">LiveChat</div>
+            <div class="chat__select">
+                <button>Ch1</button>
+                <button>Ch2</button>
+                <button>Ch3</button>
+            </div>
+            <marquee class='chat__notice'behavior="slide" direction="left">공지사항 입니다!</marquee>
+            <div class="chat__screen">
+                <ul>
+                </ul>
+            </div>
+            <div class="chat__input">
+                <textarea></textarea>
+            </div>
+            <div class="chat__format">
+                <ul>
+                    <li>
+                        <div class="sender">
+                            <span></span>
+                        </div>
+                        <div class="message">
+                            <span></span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </section>
+    <hr>
+    <section class="table__set">
+        <section class="exchange__baselist">
+            <button href="#">기준거래소</button>
+            <ul class="exchange__name__kor">
+                <li><button class="">업비트</button></li>
+                <li><button class="">빗썸</button></li>
+                <li><button class="">코인원</button></li>
+            </ul>
+        </section>
+        <section class="exchange__comparelist">
+            <button href="#">비교거래소</button>
+            <ul class="exchange__name__global">
+                <li><button class="">Binance</button></li>
+                <li><button class="">FTX</button></li>
+                <li><button class="">Kraken</button></li>
+                <li><button class="">Gate.io</button></li>
+                <li><button class="">Coinbase</button></li>
 
-<div class="tradingview__container">
-    <div id="tradingview_5547f"></div>
-    <div class="tradingview-widget-copyright">TradingView 제공 <a href="https://kr.tradingview.com/symbols/BTCUSDT/?exchange=BINANCE" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT 차트</span></a></div>
-</div>
+            </ul>
+        </section>
+        <section class="exchange__tiker">
+            <button href="#">관심자산</button>
+            <ul class="tiker__list">
+                <li><button class="">BTC</button></li>
+                <li><button class="">ETH</button></li>
+                <li><button class="">ETC</button></li>
+                <li><button class="">SOL</button></li>
+                <li><button class="">AXS</button></li>
+            </ul>
+        </section>
+
+        <table class="kimp__table">
+            <tr>
+                <th width="200">이름</th>
+                <th >기준거래소 현재가</th>
+                <th >비교거래소 현재가</th>
+                <th >전일대비</th>
+                <th >김치프리미엄</th>
+                <th >거래량</th>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+    </section>
+</section>
+
 <!-- TradingView Widget END -->
 {% endblock %}
