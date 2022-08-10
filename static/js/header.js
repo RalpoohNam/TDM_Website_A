@@ -7,6 +7,9 @@ const icons = document.querySelector('.userinfoAndSetting');
 const insightmenu = document.querySelector('.insight__submenu');
 const marketinfomenu = document.querySelector('.marketinfo__submenu');
 
+
+const scoreboardData = document.getElementById('scoreboard__data');
+
 toggleBtn.addEventListener('click',() => {
     menu.classList.toggle('active');
     icons.classList.toggle('active');
@@ -42,3 +45,7 @@ new TradingView.widget(
         "container_id": "tradingview_5547f"
     }
 );
+
+function scoreUpdate(){
+
+}
